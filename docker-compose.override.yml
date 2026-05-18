@@ -1,0 +1,9 @@
+# docker-compose.override.yml
+services:
+  postgres:
+    ports:
+      - "5432:5432"
+  kafka:
+    ports:
+      - "9092:9092"
+  # Pas besoin de builder les services ici, on les lance en local

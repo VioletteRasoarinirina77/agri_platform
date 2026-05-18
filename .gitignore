@@ -1,0 +1,23 @@
+
+node_modules/
+dist/
+build/
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+coverage/
+DockerData/
+*.log
+
+# Docker
+docker-data/
+*.tar
+
+# VSCode
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini

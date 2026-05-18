@@ -1,0 +1,15 @@
+node_modules
+venv
+__pycache__
+*.pyc
+*.log
+.git
+.gitignore
+dist
+build
+coverage
+.env
+.DS_Store
+*.zip
+*.tar
+*.gz
